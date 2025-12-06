@@ -2,6 +2,7 @@
   "name": "blockpalette---minecraft-builder's-haven",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://benmiller.ai/minecraft-creative-haven",
   "type": "module",
   "scripts": {
     "dev": "vite",
